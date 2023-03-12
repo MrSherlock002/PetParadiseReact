@@ -1,0 +1,8 @@
+.custom-nav {
+    /* From https://css.glass */
+    background: rgba(255, 255, 255, 0.7);
+    box-shadow: 0 4px 30px rgba(34, 142, 38, 0.1);
+    backdrop-filter: blur(8.8px);
+    -webkit-backdrop-filter: blur(8.8px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
